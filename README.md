@@ -10,4 +10,6 @@ Code Tutorials
 - [CSS Selectors](https://codepen.io/DevCatalyst/pen/aPxLNK)
 - [CSS Colors](https://codepen.io/DevCatalyst/pen/omQbMG)
 - [CSS Fonts](https://codepen.io/DevCatalyst/pen/yZQOWP)
+- [CSS Images](https://codepen.io/DevCatalyst/pen/oVbxPW)
+- [CSS Box Model](https://codepen.io/DevCatalyst/pen/VJRByK)
 
