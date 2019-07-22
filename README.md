@@ -1,7 +1,7 @@
 # Novice Web Dev (Level 1)
 A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 
-Code Tutorials
+## Code Tutorials
 - [CodePen](www.codepen.io)
 - [CodePen Example](https://codepen.io/DevCatalyst/pen/xMpWEa)
 - [HTML Basic Structure](https://codepen.io/DevCatalyst/pen/wYLOZY)
@@ -14,3 +14,6 @@ Code Tutorials
 - [CSS Box Model](https://codepen.io/DevCatalyst/pen/VJRByK)
 
 [Teacher Sign Up](https://devcat-front.sodiumhalogen.com/signup/370123478123467890213)
+
+## JavaScript Code Snippets
+- [Hide/Show Menu Bar](https://codepen.io/DevCatalyst/pen/ywVRRP)
