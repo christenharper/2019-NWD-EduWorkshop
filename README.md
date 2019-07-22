@@ -2,7 +2,7 @@
 A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 
 Code Tutorials
-- [CodePen](codepen.io)
+- [CodePen](www.codepen.io)
 - [CodePen Example](https://codepen.io/DevCatalyst/pen/xMpWEa)
 - [HTML Basic Structure](https://codepen.io/DevCatalyst/pen/wYLOZY)
 - [Parent and Child Elements](https://codepen.io/DevCatalyst/pen/ebPgee)
