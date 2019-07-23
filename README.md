@@ -27,3 +27,4 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 - [JavaScript Gallery](https://codepen.io/DevCatalyst/pen/OrYrjo)
 
 [Dev Catalyst Website](devcat-front.sodiumhalogen.com)
+[Can I Use...](https://caniuse.com/) - check which functions work in browsers
