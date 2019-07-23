@@ -16,4 +16,14 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 [Teacher Sign Up](https://devcat-front.sodiumhalogen.com/signup/370123478123467890213)
 
 ## JavaScript Code Snippets
+- [Simple Object Example](https://codepen.io/ZackDinerstein/pen/jzHeD)
+- [Simple if else Statement Example](https://codepen.io/thehumanscience/pen/KwEeWR)
+- [Simple innerHTML Example](https://codepen.io/HowToDevCode/pen/ozbWKN)
+- [Simple Function Example](https://codepen.io/aliciazaludova/pen/ELNMVJ)
 - [Hide/Show Menu Bar](https://codepen.io/DevCatalyst/pen/ywVRRP)
+- [Load Images Later](https://codepen.io/DevCatalyst/pen/LMKJOb)
+- [Live Clock](https://codepen.io/dudleystorey/pen/unEyp)
+- [Hamburger Menu Transition](https://codepen.io/DevCatalyst/pen/eborMB)
+- [JavaScript Gallery](https://codepen.io/DevCatalyst/pen/OrYrjo)
+
+
