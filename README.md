@@ -26,4 +26,4 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 - [Hamburger Menu Transition](https://codepen.io/DevCatalyst/pen/eborMB)
 - [JavaScript Gallery](https://codepen.io/DevCatalyst/pen/OrYrjo)
 
-
+[Dev Catalyst Website](devcat-front.sodiumhalogen.com)
