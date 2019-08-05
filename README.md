@@ -1,4 +1,4 @@
-# Novice Web Dev (Level 1)
+# Novice Web Dev (Level 1 and Level 2)
 A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 
 ## Code Tutorials
@@ -13,8 +13,6 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 - [CSS Images](https://codepen.io/DevCatalyst/pen/oVbxPW)
 - [CSS Box Model](https://codepen.io/DevCatalyst/pen/VJRByK)
 
-[Teacher Sign Up](https://devcat-front.sodiumhalogen.com/signup/370123478123467890213)
-
 ## JavaScript Code Snippets
 - [Simple Object Example](https://codepen.io/ZackDinerstein/pen/jzHeD)
 - [Simple if else Statement Example](https://codepen.io/thehumanscience/pen/KwEeWR)
@@ -26,5 +24,6 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 - [Hamburger Menu Transition](https://codepen.io/DevCatalyst/pen/eborMB)
 - [JavaScript Gallery](https://codepen.io/DevCatalyst/pen/OrYrjo)
 
-[Dev Catalyst Website](devcat-front.sodiumhalogen.com)
+[New Dev Catalyst Website](app.devcatalyst.com)
+
 [Can I Use...](https://caniuse.com/) - check which functions work in browsers
