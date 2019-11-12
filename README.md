@@ -16,8 +16,9 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
     - [Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAiAzanuBRAZEiwA5yf4umGM0pune_pIKAZjclZjp50CtsuWMnA97ip9ezZz84Kh7iM69EX8rhoCa7EQAvD_BwE&gclsrc=aw.ds), [Firefox](https://www.mozilla.org/en-US/firefox/new/), Internet Explorer, Safari, Opera, or Microsoft Edge
 - [GitHub Pages](https://github.com/)
 
-## Code Tutorials
-- [CodePen](www.codepen.io)
+## Code Resources
+- [Emmet Abbreviations Documentation](https://docs.emmet.io/abbreviations/) - for shortcuts
+- [CodePen](www.codepen.io) - for testing code
 - [CodePen Example](https://codepen.io/DevCatalyst/pen/xMpWEa)
 - [HTML Basic Structure](https://codepen.io/DevCatalyst/pen/wYLOZY)
 - [Parent and Child Elements](https://codepen.io/DevCatalyst/pen/ebPgee)
