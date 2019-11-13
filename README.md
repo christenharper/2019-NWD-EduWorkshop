@@ -20,9 +20,8 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 - [Emmet Abbreviations Documentation](https://docs.emmet.io/abbreviations/) - for shortcuts
 - [CodePen](www.codepen.io) - for testing code
 - [CSS Selectors](https://codepen.io/DevCatalyst/pen/aPxLNK)
-- [CSS Colors](https://codepen.io/DevCatalyst/pen/omQbMG)
-- [CSS Fonts](https://codepen.io/DevCatalyst/pen/yZQOWP)
-- [CSS Images](https://codepen.io/DevCatalyst/pen/oVbxPW)
+- [Bootstrap](https://getbootstrap.com/)
+
 - [CSS Box Model](https://codepen.io/DevCatalyst/pen/VJRByK)
 
 ## JavaScript Code Snippets
