@@ -19,10 +19,6 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 ## Code Resources
 - [Emmet Abbreviations Documentation](https://docs.emmet.io/abbreviations/) - for shortcuts
 - [CodePen](www.codepen.io) - for testing code
-- [CodePen Example](https://codepen.io/DevCatalyst/pen/xMpWEa)
-- [HTML Basic Structure](https://codepen.io/DevCatalyst/pen/wYLOZY)
-- [Parent and Child Elements](https://codepen.io/DevCatalyst/pen/ebPgee)
-- [HTML Attributes](https://codepen.io/DevCatalyst/pen/NoMLwd)
 - [CSS Selectors](https://codepen.io/DevCatalyst/pen/aPxLNK)
 - [CSS Colors](https://codepen.io/DevCatalyst/pen/omQbMG)
 - [CSS Fonts](https://codepen.io/DevCatalyst/pen/yZQOWP)
