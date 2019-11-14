@@ -1,0 +1,162 @@
+body,html {
+    width: 100%;
+    height: 100%;
+}
+
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+/*-------------------------------
+INTRO HEADER STYLES
+-------------------------------*/
+
+.intro-header {
+    text-align: center;
+    color: #f8f8f8;
+    background: url(img/header.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.intro-message {
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.intro-message > h1 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 5em;
+}
+
+.intro-message > h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 1.5em;
+    font-weight: 200;
+}
+
+.intro-divider {
+    width: 80%;
+    border: .5px solid #f8f8f8;
+}
+
+.intro-social-buttons {
+    display: flex;
+    margin-bottom: 20px;
+    padding: 0;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.btn-default {
+    margin-left:10px;
+    margin-right:10px;
+    color:#fff;
+    background-color:transparent;
+    border-color:rgb(158, 154, 154);
+    flex-flow: row wrap;
+}
+
+.network-name {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    margin-left: 5px;
+}
+
+/*-------------------------------
+MAIN CONTENT STYLES
+-------------------------------*/
+
+.content-section-a {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+.content-section-b {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    border: 1.5px solid #e7e7e7;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/*-------------------------------
+SOCIAL MEDIA BANNER STYLES
+-------------------------------*/
+
+.banner {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(img/content-banner.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.banner h2 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+}
+
+.banner-social-buttons {
+    display: flex;
+    padding: 0;
+    margin: 10px 0;
+    list-style-type: none;
+}
+
+.banner ul {
+    margin-bottom: 0;
+}
+
+/*-------------------------------
+FOOTER STYLES
+-------------------------------*/
+
+footer {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+.footer-nav{
+    display: flex;
+    padding:0;
+}
+.footer-nav li{
+    flex-flow: row wrap;
+    list-style-type: none;
+    padding-right: 10px;
+}
+p.copyright {
+    margin: 15px 0 0;
+}
+
+/*-------------------------------
+MEDIA QUERIES
+-------------------------------*/
+
+@media(max-width:767px) {
+    .intro-message {
+        padding-bottom: 15%;
+    }
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+    .intro-message > h3 {
+        font-size: 1.25em;
+    }
+}
