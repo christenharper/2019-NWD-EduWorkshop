@@ -21,7 +21,8 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 - [CodePen](www.codepen.io) - for testing code
 - [CSS Selectors](https://codepen.io/DevCatalyst/pen/aPxLNK)
 - [Bootstrap](https://getbootstrap.com/)
-- [CSS Box Model](https://codepen.io/DevCatalyst/pen/VJRByK)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/)
 
 ## JavaScript Code Snippets
 - [Simple Object Example](https://codepen.io/ZackDinerstein/pen/jzHeD)
