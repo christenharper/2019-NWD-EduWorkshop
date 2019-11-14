@@ -14,15 +14,16 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
   - [Atom](https://atom.io/), [Brackets](http://brackets.io/), [CodeSandbox](https://codesandbox.io/), [VS Code](https://code.visualstudio.com/download), or [Notepad++](https://notepad-plus-plus.org/downloads/v7.8.1/)
  - Browser
     - [Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAiAzanuBRAZEiwA5yf4umGM0pune_pIKAZjclZjp50CtsuWMnA97ip9ezZz84Kh7iM69EX8rhoCa7EQAvD_BwE&gclsrc=aw.ds), [Firefox](https://www.mozilla.org/en-US/firefox/new/), Internet Explorer, Safari, Opera, or Microsoft Edge
+    - [Can I Use...](https://caniuse.com/) - check new code elements work in which browsers
 - [GitHub Pages](https://github.com/)
 
 ## Code Resources
 - [Emmet Abbreviations Documentation](https://docs.emmet.io/abbreviations/) - for shortcuts
 - [CodePen](www.codepen.io) - for testing code
-- [CSS Selectors](https://codepen.io/DevCatalyst/pen/aPxLNK)
-- [Bootstrap](https://getbootstrap.com/)
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](https://fontawesome.com/)
+- [CSS Selectors](https://codepen.io/DevCatalyst/pen/aPxLNK) - examples of different ways of selecting HTML with CSS
+- [Bootstrap](https://getbootstrap.com/) - How to set up Bootstrap and find Bootstrap components
+- [Google Fonts](https://fonts.google.com/) - for finding fonts to like in HTML
+- [Font Awesome](https://fontawesome.com/) - for icons to use in website
 
 ## JavaScript Code Snippets
 - [Simple Object Example](https://codepen.io/ZackDinerstein/pen/jzHeD)
@@ -34,7 +35,3 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 - [Live Clock](https://codepen.io/dudleystorey/pen/unEyp)
 - [Hamburger Menu Transition](https://codepen.io/DevCatalyst/pen/eborMB)
 - [JavaScript Gallery](https://codepen.io/DevCatalyst/pen/OrYrjo)
-
-[New Dev Catalyst Website](app.devcatalyst.com)
-
-[Can I Use...](https://caniuse.com/) - check which functions work in browsers
