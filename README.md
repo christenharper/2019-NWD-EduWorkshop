@@ -1,7 +1,7 @@
 # Novice Web Dev (Level 1 and Level 2)
 A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 
-## [Slideshow Link](https://docs.google.com/presentation/d/1QcYZM3fN4BWrHp--3yqaPkygZa3qn_JE4eGsDpGbJpo/edit?usp=sharing)
+## [Slideshow Link (Level 1)](https://docs.google.com/presentation/d/1QcYZM3fN4BWrHp--3yqaPkygZa3qn_JE4eGsDpGbJpo/edit?usp=sharing)
 
 ## Dev Catalyst Competition
 - [2019-2020 Competition Guidelines](https://drive.google.com/open?id=1x4yOgbKGRqBLYWZYGYhnZhYgxZsHjK7gNg6gnU6gCxU)
@@ -25,7 +25,14 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 - [Google Fonts](https://fonts.google.com/) - for finding fonts to like in HTML
 - [Font Awesome](https://fontawesome.com/) - for icons to use in website
 
+##[Slideshow Link (Level 2)](https://docs.google.com/presentation/d/19QJ9sMA2_xQq-yWXwAm31GxOnkd3M9U4INzePwWTTpI/edit?usp=sharing)
+
 ## JavaScript Code Snippets
+- JavaScript in Action
+  - [Interactive Stop Watch](https://codepen.io/_Billy_Brown/pen/dbJeh)
+  - [Sliding Sidebar](https://codepen.io/marijoha/pen/PNjZyW)
+  - [Vertical Timeline](https://codepen.io/tutsplus/pen/QNeJgR)
+- [Simple Operator Example](https://codepen.io/DevCatalyst/pen/YgYJOX)
 - [Simple Object Example](https://codepen.io/ZackDinerstein/pen/jzHeD)
 - [Simple if else Statement Example](https://codepen.io/thehumanscience/pen/KwEeWR)
 - [Simple innerHTML Example](https://codepen.io/HowToDevCode/pen/ozbWKN)
