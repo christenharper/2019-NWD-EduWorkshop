@@ -25,7 +25,7 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 - [Google Fonts](https://fonts.google.com/) - for finding fonts to like in HTML
 - [Font Awesome](https://fontawesome.com/) - for icons to use in website
 
-##[Slideshow Link (Level 2)](https://docs.google.com/presentation/d/19QJ9sMA2_xQq-yWXwAm31GxOnkd3M9U4INzePwWTTpI/edit?usp=sharing)
+## [Slideshow Link (Level 2)](https://docs.google.com/presentation/d/19QJ9sMA2_xQq-yWXwAm31GxOnkd3M9U4INzePwWTTpI/edit?usp=sharing)
 
 ## JavaScript Code Snippets
 - JavaScript in Action
