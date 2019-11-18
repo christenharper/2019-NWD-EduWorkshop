@@ -8,6 +8,10 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Novice Web Development.
 - [2019-2020 Awards and Prizes](https://drive.google.com/open?id=13DjWTDpAkhNKGBeycAqeNcYogUDhYGoBLsKJjtgne5E)
 - [2019 San Francisco Trip Video](https://drive.google.com/open?id=167h04rDwMOAn92zkHA0dX0Ityobq8Keh)
 
+## UX
+- [Persona Worksheet](https://drive.google.com/open?id=170uwoHgZFiqz6Bjb-CzXE-6YXcEYUIi6)
+- [Sample Wireframe](https://drive.google.com/open?id=10o7pl_HbvJQOJFEBJf-6Ex8QUVXaIVTi)
+
 ## Your Dev Environment
 - [Dev Catalyst Lessons](https://app.devcatalyst.com/)
 - Text Editor
